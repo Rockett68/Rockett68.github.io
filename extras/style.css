@@ -473,6 +473,7 @@ a:hover {
 }
 .page-header {
  color:#fff;
+ height: auto;
  text-align:center;
  background-color:#000035;
  background-image:linear-gradient(90deg, #100119 0%, #530083 50%, #a200ff 100%);
