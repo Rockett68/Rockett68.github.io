@@ -1,4 +1,5 @@
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
+/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
 html {
  font-family:sans-serif;
  -ms-text-size-adjust:100%;
@@ -474,7 +475,7 @@ a:hover {
  color:#fff;
  text-align:center;
  background-color:#159957;
- background-image:linear-gradient(120deg, #155799, #159957)
+ background-image:linear-gradient(120deg, #8100fa, #0011ff)
 }
 @media screen and (min-width: 64em) {
  .page-header {
