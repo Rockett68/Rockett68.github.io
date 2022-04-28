@@ -732,8 +732,12 @@ a:hover {
 }
 /*Cosas mias equis de*/
 #boton-desplegable{
-    background-color: #000080;
-    border-color: rgb(99, 99, 99);
+    width: 10rem;
+    background-color: #2a003d00;
+    border-top-color: rgba(255, 255, 255, 0.637);
+    border-bottom: hidden;
+    border-left: hidden;
+    border-right: hidden;
 
 }
 .desplegable {
