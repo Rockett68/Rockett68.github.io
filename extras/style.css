@@ -474,8 +474,8 @@ a:hover {
 .page-header {
  color:#fff;
  text-align:center;
- background-color:#159957;
- background-image:linear-gradient(50deg, #8100fa, #0011ff)
+ background-color:rgb(19,0,70);
+ background-image:linear-gradient(90deg, rgba(19,0,70,1) 0%, rgba(60,9,121,1) 48%, rgba(115,0,255,1) 100%);
 }
 @media screen and (min-width: 64em) {
  .page-header {
