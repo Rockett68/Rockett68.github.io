@@ -476,12 +476,13 @@ a:hover {
  }
 }
 .page-header {
+  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
  font-family: LoveFont;
  color:#fff;
  height: auto;
  text-align:center;
  background-color:#000035;
- background-image:linear-gradient(90deg, #100119 0%, #530083 50%, #a200ff 100%);
+ background-image:linear-gradient(90deg, #010119 0%, #003983 50%, #002fff 100%);
  position: relative;
  width: 100%;
 }
@@ -711,6 +712,7 @@ a:hover {
  border:0
 }
 .site-footer {
+  text-align: right;
  padding-top:2rem;
  margin-top:2rem;
  border-top:solid 1px #eff0f1
@@ -733,7 +735,7 @@ a:hover {
 /*Cosas mias equis de*/
 #boton-desplegable{
     width: 10rem;
-    background-color: #2a003d00;
+    background-color: #001c3d00;
     border-top-color: rgba(255, 255, 255, 0.637);
     border-bottom: hidden;
     border-left: hidden;
@@ -748,6 +750,7 @@ a:hover {
     display: none;
     position: absolute;
     width: 100%;
+    background-color: rgba(0, 68, 255, 0.534);
     overflow: auto;
     box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
   }
@@ -762,7 +765,7 @@ a:hover {
   }
   .contenido-desplegable a:hover {
     color: #FFFFFF;
-    background-color: #00A4BD;
+    background-color: #0003bd;
   }
 
 
