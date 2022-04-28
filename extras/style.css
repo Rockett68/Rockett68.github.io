@@ -1,5 +1,9 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize 1.3*/
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
+@font-face {
+    font-family: LoveFont;
+    src: url(./fonts/Love.ttf);
+  }
 html {
  font-family:sans-serif;
  -ms-text-size-adjust:100%;
@@ -472,6 +476,7 @@ a:hover {
  }
 }
 .page-header {
+ font-family: LoveFont;
  color:#fff;
  height: auto;
  text-align:center;
@@ -725,6 +730,38 @@ a:hover {
   font-size:0.9rem
  }
 }
+/*Cosas mias equis de*/
+#boton-desplegable{
+    background-color: #000080;
+    border-color: rgb(99, 99, 99);
+
+}
+.desplegable {
+    display: inline-block;
+    position: relative;
+  }
+  .contenido-desplegable {
+    display: none;
+    position: absolute;
+    width: 100%;
+    overflow: auto;
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+  }
+  .desplegable:hover .contenido-desplegable {
+    display: block;
+  }
+  .contenido-desplegable a {
+    display: block;
+    color: #000000;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .contenido-desplegable a:hover {
+    color: #FFFFFF;
+    background-color: #00A4BD;
+  }
+
+
 .site-footer-owner {
  display:block;
  font-weight:bold
