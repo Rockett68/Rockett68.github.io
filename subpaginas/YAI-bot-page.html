@@ -28,7 +28,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <link rel="stylesheet" href="../extras/styleYAI.css">
+  <link rel="stylesheet" href="../extras/Estilos/styleYAI.css">
   <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
   <!-- Setup Google Analytics -->
@@ -43,6 +43,8 @@
 </head>
 
 <body>
+  <script src="../extras/JS/yai.js" async></script>
+
   <a id="skip-to-content" href="#content">Skip to the content.</a>
 
   <header class="page-header" role="banner">
@@ -57,118 +59,27 @@
     <div class="desplegable">
       <button id="boton-desplegable">comandos</button>
       <div class="contenido-desplegable">
-        <a href="index.html">Diversión</a>
-        <a href="index.html">Utilidad</a>
-        <a href="hindex.html">Links</a>
-      </div>
-    </div>
-    
-    <div class="desplegable">
-      <button id="boton-desplegable">Sobre el Canal</button>
-      <div class="contenido-desplegable">
-        <a href="index.html">Diversión</a>
-        <a href="index.html">Utilidad</a>
-        <a href="index.html">Links</a>
+        <input type="button" class="boton-desplegado" value="Utilidad" onclick="populateData(event)">
+        <input type="button" class="boton-desplegado" value="Diversion" onclick="populateData(event)">
+        <input type="button" class="boton-desplegado" value="Links" onclick="populateData(event)">
       </div>
     </div>
 
     <div class="desplegable">
-      <button id="boton-desplegable">Redes Sociales</button>
-      <div class="contenido-desplegable">
-        <a href="index.html">Diversión</a>
-        <a href="index.html">Utilidad</a>
-        <a href="index.html">Links</a>
-      </div>
+      <button id="boton-desplegable">Creditos</button>
     </div>
 
-    <div class="desplegable">
-      <button id="boton-desplegable">Creditos</button>  
-    </div>
-    
   </header>
 
   <main id="content" class="main-content" role="main">
-    <p>TEST</p>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-
-
+    
+    <div id="content_"></div>
 
     <footer class="site-footer">
-      <p><div>Version: 1.8</div><div class="site-footer-owner">Rockett68</div></p>
+      <p>
+      <div>Version: 1.9</div>
+      <div class="site-footer-owner">Rockett68</div>
+      </p>
     </footer>
   </main>
 </body>
