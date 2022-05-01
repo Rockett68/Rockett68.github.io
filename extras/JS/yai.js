@@ -19,7 +19,7 @@ function populateData(event) {
             break;
         }
         case 'Información': {
-            htmlContent =  "<h1><center><strong>Informacion</strong></center></h1><p><strong>!comandos:</strong> Recibiras un link a esta pagina en el chat.</p><p><strong>!pagina:</strong> Recibiras un link hacia la pagina de rockett en el chat.</p><p><strong>!yei:</strong> Te dare informacion sobre mi.</p><p><strong>!rockett:</strong> ¿Quieres conocer un poco mas de mi creador? !Usa este comando!</p><p><strong>!bttv:</strong> Enviare los emotes de bttv activos en el canal.</p><p><strong>!uptime:</strong> Te dire cuanto lleva en stream rockett.</p><p><strong>!hora:</strong> Te dire que hora es en el pais de rockett.</p><p><strong>!horaen [pais]:</strong> Te dire la hora del pais que me digas (con algunas excepciones).</p><p><strong>!uptime:</strong> Te dire cuanto lleva en stream rockett.</p>";
+            htmlContent =  "<h1><center><strong>Informacion</strong></center></h1><p><strong>!comandos:</strong> Recibiras un link a esta pagina en el chat.</p><p><strong>!pagina:</strong> Recibiras un link hacia la pagina de rockett en el chat.</p><p><strong>!yei:</strong> Te dare informacion sobre mi.</p><p><strong>!rockett:</strong> ¿Quieres conocer un poco mas de mi creador? !Usa este comando!</p><p><strong>!bttv:</strong> Enviare los emotes de bttv activos en el canal.</p><p><strong>!uptime:</strong> Te dire cuanto lleva en stream rockett.</p><p><strong>!hora:</strong> Te dire que hora es en el pais de rockett.</p><p><strong>!horaen [pais]:</strong> Te dire la hora del pais que me digas (con algunas excepciones).";
             break;
         }
         case 'Diversion': {
