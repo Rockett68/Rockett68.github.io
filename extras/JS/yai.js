@@ -19,15 +19,15 @@ function populateData(event) {
             break;
         }
         case 'información': {
-            htmlContent =  "<h1><center><strong>Informacion</strong></center></h1><p><strong>!pagina:</strong> Recibiras un link hacia esta pagina en el chat.</p><p><strong>!yei:</strong> Te dare informacion sobre mi.</p><p><strong>!rockett:</strong> ¿Quieres conocer un poco mas de mi creador? !Usa este comando!</p><p><strong>!osu:</strong> Visita el perfil de Osu! de Rockett.</p>";
+            htmlContent =  "<h1><center><strong>Informacion</strong></center></h1><p><strong>!comandos:</strong> Recibiras un link a esta pagina en el chat.</p><p><strong>!pagina:</strong> Recibiras un link hacia la pagina de rockett en el chat.</p><p><strong>!yei:</strong> Te dare informacion sobre mi.</p><p><strong>!rockett:</strong> ¿Quieres conocer un poco mas de mi creador? !Usa este comando!</p><p><strong>!bttv:</strong> Enviare los emotes de bttv activos en el canal.</p><p><strong>!uptime:</strong> Te dire cuanto lleva en stream rockett.</p><p><strong>!hora:</strong> Te dire que hora es en el pais de rockett.</p><p><strong>!horaen [pais]:</strong> Te dire la hora del pais que me digas (con algunas excepciones).</p><p><strong>!uptime:</strong> Te dire cuanto lleva en stream rockett.</p>";
             break;
         }
         case 'Diversion': {
             htmlContent = "WIP";
             break;
         }
-        case 'Links': {
-            htmlContent = "WIP";
+        case 'Juegos': {
+            htmlContent = "<h1><center><strong>Osu!</strong></center></h1><p><strong>!lazer:</strong> Conoce porque rockett juega en lazer.</p><p><strong>!osu:</strong> Visita el perfil de Osu! de Rockett.</p><br><h1><center><strong>Minecraft</strong></center></h1><p><strong>!datapack:</strong> ¿No sabes que es un datapack? !Usa este comando!</p>";
         }
     }
     targetDiv.innerHTML = htmlContent;
