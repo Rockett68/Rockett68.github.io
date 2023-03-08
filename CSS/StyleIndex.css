@@ -182,7 +182,7 @@ text-decoration: none;
 cursor: pointer;
 }
 
-/* Add animation to the modal */
+/* Add animation to the modal
 .modal-content,
 #caption {
 animation-name: zoom;
@@ -193,3 +193,4 @@ animation-duration: 0.6s;
 from {transform:scale(0)}
 to {transform:scale(1)}
 }
+*/
