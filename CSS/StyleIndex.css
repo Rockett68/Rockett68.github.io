@@ -87,8 +87,9 @@ nav ul li a {
 }
 
 .product-item img {
-	width: 100%;
+	max-width: 100px;
 	cursor: pointer;
+        max-height: 50px;
 	margin-bottom: 10px;
 }
 
