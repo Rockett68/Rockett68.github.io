@@ -145,7 +145,7 @@ margin-bottom: 20px;
 }}
 	/* Style the modal */
 .modal {
-display: block;
+display: none;
 position: fixed;
 z-index: 1;
 padding-top: 100px;
