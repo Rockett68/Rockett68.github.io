@@ -87,9 +87,8 @@ nav ul li a {
 }
 
 .product-item img {
-	max-width: 100px;
+	width: 100%;
 	cursor: pointer;
-        max-height: 50px;
 	margin-bottom: 10px;
 }
 
@@ -129,21 +128,8 @@ font-size: 16px;
 nav ul li {
 margin-right: 0;
 margin-bottom: 10px;
-}
-
-.hero {
-height: 400px;
-}
-.hero-text {
-margin: 0 20px;
-}
-.product-list {
-flex-direction: column;
-}
-.product-item {
-width: 100%;
-margin-bottom: 20px;
 }}
+
 	/* Style the modal */
 .modal {
 display: none;
