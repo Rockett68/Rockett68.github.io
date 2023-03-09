@@ -49,6 +49,7 @@ nav ul li a {
 .hero-text h1 {
 	font-size: 48px;
 	margin-bottom: 20px;
+	text-shadow: 4px 4px 4px #aaa;
 }
 
 .hero-text p {
