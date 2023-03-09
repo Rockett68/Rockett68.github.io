@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 .hero {
-	background-image: url('../images/test.png');
+	background-image: url('../images/BG.png');
 	background-size: cover;
 	height: 500px;
 	display: flex;
