@@ -108,15 +108,39 @@ nav ul li a {
 	margin-bottom: 10px;
 }
 
+/*Products with cropped image*/
 
 .product1 {
-	background: url("../images/product1.jpg") 50% 50% no-repeat;
+	background: url("../images/product1.jpg") 50% 10% no-repeat;
 	width: 300px;
 	height: 300px;
 }
 
 .product1:hover {
 	opacity: 0.5;
+	cursor: pointer;
+}
+
+.product2 {
+	background: url("../images/product2.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.product2:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.product3 {
+	background: url("../images/product3.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.product3:hover {
+	opacity: 0.5;
+	cursor: pointer;
 }
 
 @media (max-width: 768px) {
