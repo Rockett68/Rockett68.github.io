@@ -8,7 +8,7 @@ body {
 	font-family: Arial, sans-serif;
 	color: #333;
 	/* background: url('../images/BGpage.jpg'); */
-	background-color: #e7bde1
+	background-color: linear-gradient(#ffdddd, rgb(255, 255, 255))
 }
 
 header {
