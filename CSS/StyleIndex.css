@@ -7,7 +7,8 @@
 body {
 	font-family: Arial, sans-serif;
 	color: #333;
-	background: url('../images/BGpage.jpg');
+	/* background: url('../images/BGpage.jpg'); */
+	background-color: #e7bde1
 }
 
 header {
@@ -85,7 +86,7 @@ nav ul li a {
 	margin-bottom: 20px;
 	background-color: white;
 	padding: 20px;
-	overflow: scroll;
+	overflow: auto;
 	border-radius: 5px;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
