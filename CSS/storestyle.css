@@ -84,6 +84,7 @@ nav ul li a {
 	margin-bottom: 20px;
 	background-color: white;
 	padding: 20px;
+	overflow: auto;
 	border-radius: 5px;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
@@ -120,6 +121,7 @@ nav ul li a {
 
 .product1:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -131,6 +133,7 @@ nav ul li a {
 
 .product2:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -142,6 +145,7 @@ nav ul li a {
 
 .product3:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -153,6 +157,7 @@ nav ul li a {
 
 .product4:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -164,6 +169,7 @@ nav ul li a {
 
 .product5:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -175,6 +181,7 @@ nav ul li a {
 
 .product6:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -186,6 +193,7 @@ nav ul li a {
 
 .product7:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -197,6 +205,7 @@ nav ul li a {
 
 .product8:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -208,6 +217,7 @@ nav ul li a {
 
 .product9:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -219,6 +229,7 @@ nav ul li a {
 
 .product10:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -232,6 +243,7 @@ nav ul li a {
 
 .productb1:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -243,6 +255,7 @@ nav ul li a {
 
 .productb2:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -254,6 +267,7 @@ nav ul li a {
 
 .productb3:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -265,6 +279,7 @@ nav ul li a {
 
 .productb4:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -276,6 +291,7 @@ nav ul li a {
 
 .productb5:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -287,6 +303,7 @@ nav ul li a {
 
 .productb6:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -298,6 +315,7 @@ nav ul li a {
 
 .productb7:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -309,6 +327,7 @@ nav ul li a {
 
 .productb8:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -320,6 +339,7 @@ nav ul li a {
 
 .productb9:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
@@ -331,6 +351,7 @@ nav ul li a {
 
 .productb10:hover {
 	opacity: 0.5;
+	overflow: hide;
 	cursor: pointer;
 }
 
