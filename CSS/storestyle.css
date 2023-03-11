@@ -143,6 +143,83 @@ nav ul li a {
 	cursor: pointer;
 }
 
+.product4 {
+	background: url("../images/product4.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.product4:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.product5 {
+	background: url("../images/product5.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.product5:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.product6 {
+	background: url("../images/product6.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.product6:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.product7 {
+	background: url("../images/product7.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.product7:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.product8 {
+	background: url("../images/product8.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.product8:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.product9 {
+	background: url("../images/product9.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.product9:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.product10 {
+	background: url("../images/product10.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.product10:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
 @media (max-width: 768px) {
 	nav ul {
 		flex-direction: column;
