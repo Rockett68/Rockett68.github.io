@@ -222,6 +222,118 @@ nav ul li a {
 	cursor: pointer;
 }
 
+/*producstb*/
+
+.productb1 {
+	background: url("../images/productb1.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb1:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.productb2 {
+	background: url("../images/productb2.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb2:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.productb3 {
+	background: url("../images/productb3.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb3:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.productb4 {
+	background: url("../images/productb4.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb4:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.productb5 {
+	background: url("../images/productb5.jpg") 80% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb5:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.productb6 {
+	background: url("../images/productb6.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb6:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.productb7 {
+	background: url("../images/productb7.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb7:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.productb8 {
+	background: url("../images/productb8.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb8:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.productb9 {
+	background: url("../images/productb9.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb9:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.productb10 {
+	background: url("../images/productb10.jpg") 50% 10% no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+.productb10:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
 @media (max-width: 768px) {
 	nav ul {
 		flex-direction: column;
